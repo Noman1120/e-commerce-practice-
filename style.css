@@ -19,3 +19,41 @@
 .container{
     margin-bottom: 50px;
 }
+
+.cat-1{
+    background-color: pink;
+    padding: 10px 30px;
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 5px;
+}
+.cat-2{
+    background-color: coral;
+    padding: 10px 30px;
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 5px;
+}
+.cat-3{
+    background-color: violet;
+    padding: 10px 30px;
+    border: 1px solid rgba(255, 255, 255, 0);
+    border-radius: 5px;
+}
+
+.catagories{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+#Subscribe{
+    height: 300px;
+    background-color: #fceae8;
+    width: 700px;
+}
+h{6
+    color: lightslategrey;
+}
